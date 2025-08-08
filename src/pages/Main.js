@@ -91,7 +91,7 @@ const MainPage = () => {
           amount,
           paymentdate: getCurrentFormattedDateTime(),
           integrationType: "nonseamless",
-          callbackurl: "https://nonseam-pay.onrender.com/transaction",
+          callbackurl: "https://nonseampay.vercel.app/transaction",
           mop: "NA",
           moptype: "NA",
           mopdetails: "NA",
